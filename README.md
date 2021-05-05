@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Ctrl-marco
+- 👀 me interesa la programación web...
+- actualmente me encuentro estudiando para programador 
